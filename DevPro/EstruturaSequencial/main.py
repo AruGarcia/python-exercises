@@ -1,3 +1,5 @@
+# estrutura sequencial https://wiki.python.org.br/EstruturaSequencial
+
 print('Hello World')
-nome = 'Aruanã'
-print(nome)
+
+type('hello world')
