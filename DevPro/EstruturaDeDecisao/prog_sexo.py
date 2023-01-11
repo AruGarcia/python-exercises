@@ -2,12 +2,12 @@
 
 sexo = input('Escreva qual é o seu sexo, masculino (m), feminio (f), outros (o): ').upper()
 if sexo == 'M':
-  print('Masculino')
+    print('Masculino')
 elif sexo == 'F':
-  print('Feminino')
+    print('Feminino')
 elif sexo == 'O':
-  print('Outro')
+    print('Outro')
 else:
-  print('Sexo inválido')
+    print('Sexo inválido')
 
 print('Finalizou o programa')
